@@ -1,2 +1,5 @@
 /myenv/
 /.idea/
+/exercise_case/.pytest_cache/v/cache/
+/exercise_case/.pytest_cache/.gitignore
+/exercise_case/.pytest_cache/README.md
